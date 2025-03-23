@@ -17,14 +17,14 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   };
 
   let messageContent = {
-    text: 'dont worry dear Asta is always here 🌟*, // Text content in case a message body is needed'
+    text: 'dont worry dear Asta is always here 🌟*', // Text content in case a message body is needed
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'TIK_BOTS',
+        title: 'TIKU_BOTS',
         body: 'Asta',
         thumbnailUrl: img,
-        sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+        sourceUrl: 'https://chat.whatsapp.com/GgmGz44D4TsI4alBaPYpWh',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
