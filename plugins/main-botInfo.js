@@ -55,30 +55,22 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let user = global.db.data.users[who]
 
   let infobt = `
-≡ *INFO BOT*
+*ASTA INFO*
   
 *STATE*
-▢ *${groupsIn.length}* GROUP CHATS
-▢ *${groupsIn.length}* united groups
-▢ *${groupsIn.length - groupsIn.length}* abandoned groups
-▢ *${chats.length - groupsIn.length}* private chats
-▢ *${chats.length}* Total Chats
+🪻 *${groupsIn.length}* GROUP CHATS
+🪻 *${groupsIn.length}* united groups
+🪻 *${groupsIn.length - groupsIn.length}* abandoned groups
+🪻 *${chats.length - groupsIn.length}* private chats
+🪻 *${chats.length}* Total Chats
 
 *≡ OWNER*
-▢ Instagram :
-  • https://instagram.com/global.techinfo
-▢ GitHub :
-  • https://github.com/GlobalTechInfo
-▢ YouTube : 
-  • https://youtube.com/@GlobalTechInfo
-▢ credit: 
-  • mr oreo
+TIKU ✨🌷 Created with love so use with love ok
+   🌚
 
- *≡ S E R V E R*
-*🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
-*🔵 FreeRAM:* ${format(freemem())}
+like to learn new things 
 
-*≡  NodeJS memory*
+
 ${
   '```' +
   Object.keys(used)
