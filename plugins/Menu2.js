@@ -39,59 +39,8 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
-📋 *_Quote of the day: ${quote}_* 📋
-◈╭──❍「 *USER INFO* 」❍
-◈├• 🦸 *Owner:* ${OwnerName}
-◈├• 🏆 *Rank:* ${role}
-◈├• 🎮 *XP:* ${exp} 
-◈├• 🎩 *USER*:${username}
-◈╰─┬─★─☆──♪♪─❍
-◈╭─┴❍「 *BOT STATUS* 」❍
-◈├• 📆  *Date:* ${date}
-◈├• ⏲️  *Time:* ${wib}
-◈├• 🤡  *Bot:* ${botname} 
-◈├• 📣  *Prefix:* ${usedPrefix} 
-◈├• 🕓  *Uptime:* ${uptime}
-◈├• 💌  *Database:* ${rtotalreg} of ${totaluser} 
-◈├• 📚  *Total Users:* ${totaluser}
-◈╰─┬─★─☆──♪♪─❍
-◈╭─┴❍「 *MAIN MENU* 」❍
-◈├• *allmenu*
-◈├• *aimenu*
-◈├• *aeditor*
-◈├• *animemenu*
-◈├• *autoreact*
-◈├• *botmenu*
-◈├• *dlmenu*
-◈├• *economy*
-◈├• *enable*
-◈├• *fancy*
-◈├• *funmenu*
-◈├• *gamesmenu*
-◈├• *groupmenu*
-◈├• *imagen*
-◈├• *infoanime*
-◈├• *listmenu*
-◈├• *listplugin*
-◈├• *logomenu*
-◈├• *makermenu*
-◈├• *menu*
-◈├• *menu3*
-◈├• *menu4*
-◈├• *nsfwmenu*
-◈├• *randompic*
-◈├• *randomvid*
-◈├• *reactions*
-◈├• *stickermenu*
-◈├• *textpro*
-◈├• *toolsmenu*
-◈├• *ownermenu*
-◈├• *setprivacy*
-◈╰─♪♪─★─☆──♪♪─❍
-© *GlobalTechInfo*
-
-> 💡 *_Remember, when in doubt, use ${usedPrefix}listmenu or ${usedPrefix}help It's like my magic spell book!_* 💡
+👋🏻 Konichiwa ${name}, ${greeting}! myself Asta your protector made by LORD TIKU✨🌷
+simply type #menu to get the list of commands 🪻
 `
 
     
