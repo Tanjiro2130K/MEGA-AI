@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923444844060';
+const defaultOwner = '917086726371';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
@@ -23,9 +23,9 @@ global.botname = process.env.BOTNAME || 'MEGA-AI';
 global.pairingNumber = process.env.BOT_NUMBER || '' ;  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
 
-global.mods = []
-global.prems = []
-global.allowed = ['923444844060', '923051391007']
+global.mods = ['917086726371','917086810603']
+global.prems = ['917086726371','917086810603']
+global.allowed = ['917086726371', '917086810603']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -84,12 +84,12 @@ global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
 global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
-global.wait = '⏳'
-global.rwait = '⏳'
-global.dmoji = '🤭'
-global.done = '✅'
+global.wait = '🪻'
+global.rwait = '🪻'
+global.dmoji = '🌷'
+global.done = '🫶🏻'
 global.error = '❌'
-global.xmoji = '🤩'
+global.xmoji = '🍥'
 
 global.multiplier = 69
 global.maxwarn = '3'
