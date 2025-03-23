@@ -40,7 +40,38 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 👋🏻 Konichiwa ${name}, ${greeting}! myself Asta your protector made by LORD TIKU✨🌷
-simply type #menu to get the list of commands 🪻
+simply use # before thise words from list to get the list of specefic commands 🪻
+
+🔖 *aimenu*
+🔖 *aeditor*
+🔖 *animemenu*
+🔖 *autoreact*
+🔖 *botmenu*
+🔖 *dlmenu*
+🔖 *economy*
+🔖 *enable*
+🔖 *fancy*
+🔖 *funmenu*
+🔖 *gamesmenu*
+🔖 *groupmenu*
+🔖 *imagen*
+🔖 *infoanime*
+🔖 *listmenu*
+🔖 *listplugin*
+🔖 *logomenu*
+🔖 *makermenu*
+🔖 *menu*
+🔖 *menu3*
+🔖 *menu4*
+🔖 *nsfwmenu*
+🔖 *randompic*
+🔖 *randomvid*
+🔖 *reactions*
+🔖 *stickermenu*
+🔖 *textpro*
+🔖 *toolsmenu*
+🔖 *ownermenu*
+🔖 *setprivacy*
 `
 
     
