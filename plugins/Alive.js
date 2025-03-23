@@ -17,7 +17,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   };
 
   let messageContent = {
-    text: 'dont worry dear Asta is always here 🌟*, // Text content in case a message body is needed
+    text: 'dont worry dear Asta is always here 🌟*, // Text content in case a message body is needed'
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
