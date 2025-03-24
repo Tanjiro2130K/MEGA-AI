@@ -19,7 +19,7 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
  HIE MYSELF TIKU-SAIKIA FROM NORTHEAST/ASSAM
  06/10/2007 LIBRA ♎ 
 
- LOVE TO RIDE 
+ LOVE TO RIDE BIKES
  390 🚀 SHIFTTER
 
 IF I DIE DONT CRY 
