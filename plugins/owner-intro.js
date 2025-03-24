@@ -15,24 +15,23 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
     const introText = `
  ◈ •╭═══ ━ ━ • ━ ━ ━ ═══♡᭄
  ◈ •│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
- ◈ •│ Name    : ${OwnerName}
- ◈ •│
- ◈ •│ Place     : ${timeZone}
- ◈ •│
- ◈ •│ Gender  : 𝙼𝙰𝙻𝙴
- ◈ •│
- ◈ •│ Age        : 𝟸𝟼_
- ◈ •│
- ◈ •│ Status   : ${profession}
- ◈ •│
- ◈ •│ Skills     : ${skills}
- ◈ •│
- ◈ •│ Lang     : ${language}
- ◈ •│
- ◈ •│ Project  : ${project}
- ◈ •│
- ◈ •│ Hobbie  : ${hobbies}
- ◈ •╰═══ ━ ━ • ━ ━ ━ ═══♡᭄
+ 
+ HIE MYSELF TIKU-SAIKIA FROM NORTHEAST/ASSAM
+ 06/10/2007 LIBRA ♎ 
+
+ LOVE TO RIDE 
+ 390 🚀 SHIFTTER
+
+IF I DIE DONT CRY 
+JUST LOOK AT THE SKY
+SMILE AND SEE HOW MY SOULS FLY 
+
+
+I PRAY TO GOD THAT EVERYBODY LIFE GOES WITH BEAUTIFUL AND SWEET LOTS OF HAPPINESS 
+
+SOME LOVE FROM TIKU✨🌷🫶🏻 
+
+ 
     `;
 
     let pp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png';
