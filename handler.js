@@ -621,7 +621,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              const leaveUrl = 'https://i.imgur.com/NsBIWbA.png';
+              const leaveUrl = 'https://i.imgur.com/gyk02Jg.jpeg';
               let leaveResponse = await fetch(leaveUrl)
               let leaveBuffer = await leaveResponse.buffer()
 
