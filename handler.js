@@ -563,7 +563,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              const welcomeUrl = 'https://rammpntxxx-up.hf.space/file/image-gnwo4m4c2df.png';
+              const welcomeUrl = 'https://i.imgur.com/rPSIjQr.jpeg';
               let welcomeResponse = await fetch(welcomeUrl)
               let welcomeBuffer = await welcomeResponse.buffer()
 
@@ -621,7 +621,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              const leaveUrl = 'https://rammpntxxx-up.hf.space/file/image-np85t78al4n.png';
+              const leaveUrl = 'https://i.imgur.com/NsBIWbA.png';
               let leaveResponse = await fetch(leaveUrl)
               let leaveBuffer = await leaveResponse.buffer()
 
