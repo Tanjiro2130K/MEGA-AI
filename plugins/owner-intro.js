@@ -43,13 +43,13 @@ SOME LOVE FROM TIKU✨🌷🫶🏻
       console.log("Error fetching profile picture:", e);
     }
 
-    const sourceUrl = 'https://youtube.com/@GlobalTechInfo'; // Example source URL for the card
-    const OwnerImg = 'https://github.com/GlobalTechInfo.png';
+    const sourceUrl = 'https://chat.whatsapp.com/GQlWh6EUV2MA0F4BFysGgt'; // Example source URL for the card
+    const OwnerImg = 'https://i.imgur.com/JZs6R9H.jpeg';
     const contextInfo = {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'MEGA-AI', // Title of the card
-        body: '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯',
+        title: 'TIKU✨🪻', // Title of the card
+        body: 'Tiku loves you all ✨🫶🏻',
         thumbnailUrl: OwnerImg, // Fixed URL syntax with quotes
         mediaUrl: pp,  // Corrected to use profile picture URL fetched
         sourceUrl: sourceUrl, // Source URL for the card
