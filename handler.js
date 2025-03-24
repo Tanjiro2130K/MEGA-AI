@@ -563,7 +563,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              const welcomeUrl = 'https://i.imgur.com/mxFDDcm.jpeg';
+              const welcomeUrl = 'https://rammpntxxx-up.hf.space/file/image-gnwo4m4c2df.png';
               let welcomeResponse = await fetch(welcomeUrl)
               let welcomeBuffer = await welcomeResponse.buffer()
 
@@ -572,10 +572,10 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: '𝕋𝕆𝕌ℂℍ ℍ𝔼ℝ𝔼',
+                    title: 'Konochiwa 👋🏻',
                     body: '𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿',
                     thumbnailUrl: welcomeUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+                    sourceUrl: 'https://chat.whatsapp.com/GQlWh6EUV2MA0F4BFysGgt',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
@@ -621,7 +621,7 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              const leaveUrl = 'https://i.imgur.com/rO8hlAQ.jpeg';
+              const leaveUrl = 'https://rammpntxxx-up.hf.space/file/image-np85t78al4n.png';
               let leaveResponse = await fetch(leaveUrl)
               let leaveBuffer = await leaveResponse.buffer()
 
@@ -630,10 +630,10 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: '𝕋𝕆𝕌ℂℍ ℍ𝔼ℝ𝔼',
+                    title: 'Sayonara 🥀',
                     body: '𝙶𝙾𝙾𝙳 𝙱𝚈𝙴 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿',
                     thumbnailUrl: leaveUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+                    sourceUrl: 'https://chat.whatsapp.com/GQlWh6EUV2MA0F4BFysGgt',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
