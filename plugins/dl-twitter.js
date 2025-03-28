@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix, args, command, text }) => {
     const mediaType = mediaData.type;
     const mediaURL = mediaData.url;
 
-    let caption = `Here is the ${mediaType.toUpperCase()}\n\n*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 © 𝙼𝙴𝙶𝙰-𝙰𝙸*`;
+    let caption = `Here is the ${mediaType.toUpperCase()}\n\n*powerd by TIKU_BOTS😁✨🌷*`;
 
     // Send media based on type
     if (mediaType === 'video') {
