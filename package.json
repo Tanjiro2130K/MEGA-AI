@@ -30,7 +30,7 @@
     ],
     "homepage": "https://github.com/GlobalTechInfo/MEGA-AI",
     "author": {
-        "name": "GlobalTechInfo"
+        "name": "SARIFTechInfo"
     },
     "repository": {
         "type": "git",
@@ -123,11 +123,11 @@
     },
     "contributors": [
     {
-      "name": "Qasim Ali",
+      "name": "SARIF Ai",
       "role": "Lead Developer"
     },
     {
-      "name": "GlobalTechInfo",
+      "name": "SARIFTechInfo",
       "role": "Maintainer"
     }
   ]
